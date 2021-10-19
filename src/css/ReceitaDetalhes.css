@@ -1,0 +1,22 @@
+.countainerButtons{
+  width: 70px;
+  height: 50px;
+}
+
+.titleDisplay {
+  height: 120px;
+  width: 270px;
+  margin-bottom: 20px;
+}
+
+.titleDisplay h1, h4 {
+  color: #8f0e01;
+}
+
+.titleDisplay h5 {
+  color: rgb(80, 102, 110);
+}
+
+.titleDetalhes {
+  font-size: 30px;
+}

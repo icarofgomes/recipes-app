@@ -1,0 +1,7 @@
+.footer-Container {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(194, 52, 52);
+  width: 360px;
+  border-radius: 5px 5px 0 0;
+}

@@ -1,0 +1,26 @@
+.explorar-div {
+  height: 80vh;
+}
+
+.countainer-Buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 180px;
+}
+
+.countainer-Buttons button {
+  background-color: rgb(194, 52, 52);
+  border-radius: 8px;
+  box-shadow: gray 3px 3px 3px;
+  border-style: none;
+  color: aliceblue;
+  font-size: larger;
+  font-weight: 600;
+  height: 70px;
+  width: 290px;
+}
+
+.countainer-Buttons button:hover {
+  color: rgb(190, 190, 81);
+}

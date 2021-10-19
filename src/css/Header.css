@@ -1,0 +1,11 @@
+.colorHeader {
+  background-color: rgb(194, 52, 52);
+  color: #ffffff;
+  border-radius: 0 0 5px 5px;
+}
+
+.header-title {
+  font-weight: 600;
+  margin-top: 5px;
+  font-size: x-large;
+}

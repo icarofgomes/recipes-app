@@ -1,0 +1,37 @@
+.styleCardFav {
+  background-color: rgb(194, 52, 52);
+  border-radius: 8px;
+  box-shadow: grey 2px 2px 10px;
+  color: #e5e3e2;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 250px;
+  height: 300px;
+}
+
+.titlesFav {
+ display: flex;
+ flex-direction: column;
+ justify-content:flex-start;
+ height: 70px;
+ width: 165px;
+}
+
+.buttonsFav {
+  height: 50px;
+  width: 75px;
+}
+
+.titleFav {
+  font-size: 19px;
+  color: #e5e3e2;
+  font-weight: 600;
+}
+
+.linkTile {
+  height: 20px;
+}
+
+.countainerFav {
+  height: 100%;
+}

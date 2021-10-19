@@ -1,0 +1,10 @@
+.carouselCard {
+  height: 250px;
+  background-color: rgb(228, 120, 81);
+}
+
+.cardSlide {
+  background-color: rgb(243, 227, 227);
+  border-radius: 8px;
+  box-shadow: rgb(54, 48, 41) 2px 2px 15px;
+}
